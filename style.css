@@ -27,6 +27,7 @@ body {
     background-color: white;
     margin: auto;
     text-align: center;
+    position: relative;
     border-radius: 5px;
 
 
@@ -62,7 +63,7 @@ body {
     color: white;
     background-color: #3b74ba;
     position: absolute;
-    bottom: 72px;
-    right: 257px;
+    bottom: -10px;
+    right: 20px;
     border-radius: 5px;
 }
