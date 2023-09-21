@@ -1,1 +1,1 @@
-alert("Card");
+alert("Web");
