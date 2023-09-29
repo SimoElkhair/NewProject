@@ -125,10 +125,7 @@ nav .menu {
 }
 
 .center .btns button i {
-    background-color: #fff;
-    color: skyblue;
-    width: 25px;
-    display: flex;
+    color: aqua;
 }
 
 .center .btns button:first-child {
